@@ -27,6 +27,7 @@ If applicable, add screenshots to help explain your problem.
  - Device: Redmi 4X (if you're not using this device then you're looking at wrong port)
  - Kernel: [e.g. 3.18.140-ubports]
  - Are you using Anbox?: Yes / No
+ - If kernel panic, please attach the output of /proc/last_kmsg as an attachment.
 
 **Additional context**
 Add any other context about the problem here.
